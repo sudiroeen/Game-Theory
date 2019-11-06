@@ -12,4 +12,4 @@
  
 you can change "3" above with any random initialization index
 
-Video: 
+Video: https://youtu.be/K4GaIG-kaKI
