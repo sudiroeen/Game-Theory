@@ -1,3 +1,9 @@
+/*
+  Copyright by:
+  	Sudiro
+	   [at] SudiroEEN@gmail.com
+*/
+
 #include "GameTheory.hpp"
 
 GameTheory::GameTheory(vector<Point2f> GainData, int row_, int col_)
