@@ -1,3 +1,9 @@
+/*
+  Copyright by:
+  	Sudiro
+	   [at] SudiroEEN@gmail.com
+*/
+
 #pragma once
 
 #include <opencv2/opencv.hpp>
