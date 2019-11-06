@@ -1,3 +1,9 @@
+/*
+  Copyright by:
+  	Sudiro
+	   [at] SudiroEEN@gmail.com
+*/
+
 #include "GameTheory.hpp"
 
 int main(int argc, char** argv){
